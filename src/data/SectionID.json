@@ -1,0 +1,62 @@
+﻿[
+	{
+		"id": 0,
+		"name": "Viridia",
+		"group": "A",
+		"fourthevo": "A"
+	},
+	{
+		"id": 1,
+		"name": "Greenill",
+		"group": "B",
+		"fourthevo": "B"
+	},
+	{
+		"id": 2,
+		"name": "Skyly",
+		"group": "A",
+		"fourthevo": "C"
+	},
+	{
+		"id": 3,
+		"name": "Bluefull",
+		"group": "B",
+		"fourthevo": "A"
+	},
+	{
+		"id": 4,
+		"name": "Purplenum",
+		"group": "A",
+		"fourthevo": "B"
+	},
+		{
+		"id": 5,
+		"name": "Pinkal",
+		"group": "B",
+		"fourthevo": "C"
+	},
+	{
+		"id": 6,
+		"name": "Redria",
+		"group": "A",
+		"fourthevo": "A"
+	},
+	{
+		"id": 7,
+		"name": "Oran",
+		"group": "B",
+		"fourthevo": "B"
+	},
+	{
+		"id": 8,
+		"name": "Yellowboze",
+		"group": "A",
+		"fourthevo": "C"
+	},
+	{
+		"id": 9,
+		"name": "Whitill",
+		"group": "B",
+		"fourthevo": "A"
+	}
+]

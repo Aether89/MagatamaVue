@@ -1,0 +1,35 @@
+﻿{
+	"GameVersion": 4,
+	"FeedingTime": 210,
+	"RacialRestriction": false,
+	
+	"DefaultPlayer": {
+		"class": "FOmar",
+		"name": "Break",
+		"secid": "Pinkal"
+	},
+
+	"Maximum":{
+		"Level": 200,
+		"Sync": 120,
+		"IQ": 200,
+		"DEF": 200,
+		"POW": 195,
+		"DEX": 195,
+		"MIND": 195	
+	},
+
+	"Cost": {
+		"Monomate": 50,
+		"Dimate": 300,
+		"trimate": 2000,
+		"Monofluid": 100,
+		"Difluid": 500,
+		"Trifluid": 3600,
+		"Antitode": 60,
+		"Antiparalysis": 60,
+		"SolAtomizer": 300,
+		"MoonAtomizer": 300,
+		"StarAtomizer": 5000
+	}
+}

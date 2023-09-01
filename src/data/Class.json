@@ -1,0 +1,86 @@
+[
+	{
+		"name": "HUmar",
+		"group": "HU",
+		"gender": "M",
+		"episode": 1,
+		"secidoffset": 5
+	},
+	{
+		"name": "HUnewearl",
+		"group": "HU",
+		"gender": "F",
+		"episode": 1,
+		"secidoffset": 6
+	},
+	{
+		"name": "HUcast",
+		"group": "HU",
+		"gender": "M",
+		"episode": 1,
+		"secidoffset": 7
+	},
+	{
+		"name": "HUcaseal",
+		"group": "HU",
+		"gender": "F",
+		"episode": 2,
+		"secidoffset": 4
+	},
+	{
+		"name": "RAmar",
+		"group": "RA",
+		"gender": "M",
+		"episode": 1,
+		"secidoffset": 8
+	},
+	{
+		"name": "RAmarl",
+		"group": "RA",
+		"gender": "F",
+		"episode": 2,
+		"secidoffset": 6
+	},
+	{
+		"name": "RAcast",
+		"group": "RA",
+		"gender": "M",
+		"episode": 1,
+		"secidoffset": 9
+	},
+	{
+		"name": "RAcaseal",
+		"group": "RA",
+		"gender": "F",
+		"episode": 1,
+		"secidoffset": 0
+	},
+	{
+		"name": "FOmar",
+		"group": "FO",
+		"gender": "M",
+		"episode": 2,
+		"secidoffset": 5
+	},
+	{
+		"name": "FOmarl",
+		"group": "FO",
+		"gender": "F",
+		"episode": 1,
+		"secidoffset": 1
+	},
+	{
+		"name": "FOnewm",
+		"group": "FO",
+		"gender": "M",
+		"episode": 1,
+		"secidoffset": 2
+	},
+	{
+		"name": "FOnewearl",
+		"group": "FO",
+		"gender": "F",
+		"episode": 1,
+		"secidoffset": 3
+	}
+]

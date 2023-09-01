@@ -1,0 +1,118 @@
+﻿[
+	{
+		"id": 0,
+		"name": "No Mag Cell"
+	},
+	{
+		"id": 1,
+		"name": "Cell of MAG 213"
+	},
+	{
+		"id": 2,
+		"name": "Cell of MAG 502"
+	},
+	{
+		"id": 3,
+		"name": "Heart of Chao"
+	},
+	{
+		"id": 4,
+		"name": "Heart of RoboChao"
+	},
+	{
+		"id": 5,
+		"name": "Heart of Pian"
+	},
+	{
+		"id": 6,
+		"name": "Heart of Opa Opa"
+	},
+	{
+		"id": 7,
+		"name": "Heart of Chu Chu"
+	},
+	{
+		"id": 8,
+		"name": "Heart of Kapu Kapu"
+	},
+	{
+		"id": 9,
+		"name": "Heart of Angel's"
+	},
+	{
+		"id": 10,
+		"name": "Heart of Devil's"
+	},
+	{
+		"id": 11,
+		"name": "Panter's Spirit"
+	},
+	{
+		"id": 12,
+		"name": "Kit of Hamburger"
+	},
+	{
+		"id": 13,
+		"name": "Kit of Mark III"
+	},
+	{
+		"id": 14,
+		"name": "Kit of Master System"
+	},
+	{
+		"id": 15,
+		"name": "Kit of Genesis"
+	},
+	{
+		"id": 16,
+		"name": "Kit of Saturn"
+	},
+	{
+		"id": 17,
+		"name": "Kit of Dreamcast"
+	},
+	{
+		"id": 18,
+		"name": "Heart of YN-1107"
+	},
+	{
+		"id": 19,
+		"name": "Liberta Kit"
+	},
+	{
+		"id": 20,
+		"name": "D-Photon Core"
+	},
+	{
+		"id": 21,
+		"name": "Tablet"
+	},
+	{
+		"id": 22,
+		"name": "Heart of Morolian"
+	},
+	{
+		"id": 23,
+		"name": "Pioneer Parts"
+	},
+	{
+		"id": 24,
+		"name": "Amitie's Meno"
+	},
+	{
+		"id": 25,
+		"name": "Rappy Beak"
+	},
+	{
+		"id": 26,
+		"name": "Heaven Striket Coat"
+	},
+	{
+		"id": 27,
+		"name": "Dragon Scale"
+	},
+	{
+		"id": 28,
+		"name": "Yahoo! Engine"
+	}
+]

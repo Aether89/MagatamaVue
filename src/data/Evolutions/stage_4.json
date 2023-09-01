@@ -1,0 +1,38 @@
+{
+    "HU": {
+        "M": {
+            "DEFPOW-DEXMIND": 58,
+            "DEFDEX-POWMIND": 57,
+            "DEFMIND-POWDEX": 58
+        },
+        "F": {
+            "DEFPOW-DEXMIND": 59,
+            "DEFDEX-POWMIND": 59,
+            "DEFMIND-POWDEX": 59
+        }
+    },
+    "RA": {
+        "M": {
+            "DEFPOW-DEXMIND": 60,
+            "DEFDEX-POWMIND": 60,
+            "DEFMIND-POWDEX": 60
+        },
+        "F": {
+            "DEFPOW-DEXMIND": 62,
+            "DEFDEX-POWMIND": 61,
+            "DEFMIND-POWDEX": 61
+        }
+    },
+    "FO": {
+        "M": {
+            "DEFPOW-DEXMIND": 63,
+            "DEFDEX-POWMIND": 63,
+            "DEFMIND-POWDEX": 63
+        },
+        "F": {
+            "DEFPOW-DEXMIND": 65,
+            "DEFDEX-POWMIND": 64,
+            "DEFMIND-POWDEX": 65
+        }
+    }
+}

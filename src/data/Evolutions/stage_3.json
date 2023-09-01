@@ -1,0 +1,62 @@
+{
+    "HU": {
+        "A": {
+            "POWDEXMIND": 13,
+            "POWMINDDEX": 15,
+            "DEXPOWMIND": 17,
+            "DEXMINDPOW": 19,
+            "MINDPOWDEX": 21,
+            "MINDDEXPOW": 23
+        },
+        "B": {
+            "POWDEXMIND": 14,
+            "POWMINDDEX": 16,
+            "DEXPOWMIND": 18,
+            "DEXMINDPOW": 20,
+            "MINDPOWDEX": 22,
+            "MINDDEXPOW": 24
+        }
+    },
+    "RA": {
+        "A": {
+            "POWDEXMIND": 14,
+            "POWMINDDEX": 15,
+            "DEXPOWMIND": 15,
+            "DEXMINDPOW": 14,
+            "MINDPOWDEX": 13,
+            "MINDDEXPOW": 16
+        },
+        "B": {
+            "POWDEXMIND": 25,
+            "POWMINDDEX": 26,
+            "DEXPOWMIND": 26,
+            "DEXMINDPOW": 13,
+            "MINDPOWDEX": 21,
+            "MINDDEXPOW": 22
+        }
+    },
+    "FO": {
+        "A": {
+            "POWDEXMIND": 27,
+            "POWMINDDEX": 29,
+            "DEXPOWMIND": 31,
+            "DEXMINDPOW": 32,
+            "MINDPOWDEX": 30,
+            "MINDDEXPOW": 21,
+            "DEFPOW": 34,
+            "DEFDEX": 35,
+            "DEFMIND": 35
+        },
+        "B": {
+            "POWDEXMIND": 28,
+            "POWMINDDEX": 30,
+            "DEXPOWMIND": 18,
+            "DEXMINDPOW": 15,
+            "MINDPOWDEX": 33,
+            "MINDDEXPOW": 17,
+            "DEFPOW": 34,
+            "DEFDEX": 35,
+            "DEFMIND": 35
+        }
+    }
+}

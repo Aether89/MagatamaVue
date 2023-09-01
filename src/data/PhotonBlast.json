@@ -1,0 +1,37 @@
+[
+	{
+		"id": 0,
+		"name": "",
+		"desc": ""
+	},
+	{
+		"id": 1,
+		"name": "Farlla",
+		"desc": "Spinning attack that hits all nearby enemies."
+	},
+	{
+		"id": 2,
+		"name": "Estlla",
+		"desc": "Linear attack that strikes enemies in front."
+	},
+	{
+		"id": 3,
+		"name": "Leilla",
+		"desc": "Restores health of a player."
+	},
+	{
+		"id": 4,
+		"name": "Golla",
+		"desc": "Concentrated attack that focuses on enemy."
+	},
+	{
+		"id": 5,
+		"name": "Pilla",
+		"desc": "Aerial attack that hits nearby enemies."
+	},
+	{
+		"id": 6,
+		"name": "Mylla and Youlla",
+		"desc": "Raises attack and defense status of a player."
+	}
+]
